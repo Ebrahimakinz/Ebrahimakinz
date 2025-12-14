@@ -21,7 +21,7 @@ From Multi-Million-Dollar Infrastructure to Mission-Critical Governance, Enterpr
 
 - <b>Enterprise IT Risk Management& Cybersecurity</b>
   - [Current Event](https://github.com/Ebrahimakinz/Current-Event)
-  - [FG Risk Maturity Consulting](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [FG Risk Maturity Consulting](https://github.com/Ebrahimakinz/FG-Consulting)
 - <b>Cybersecurity Program Design</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Cybersecurity Incident Management</b>
