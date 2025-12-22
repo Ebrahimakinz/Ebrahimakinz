@@ -23,7 +23,7 @@ From Multi-Million-Dollar Infrastructure to Mission-Critical Governance, Enterpr
   - [Current Event](https://github.com/Ebrahimakinz/Current-Event)
   - [FG Risk Maturity Consulting](https://github.com/Ebrahimakinz/FG-Consulting)
 - <b>Cybersecurity Program Design</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Program Design for CRC](https://github.com/Ebrahimakinz/Program-Design-for-CRC) <b><i>(Humanitarian Organization)</b></i>
 - <b>Cybersecurity Incident Management</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
