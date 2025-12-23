@@ -25,10 +25,7 @@ From Multi-Million-Dollar Infrastructure to Mission-Critical Governance, Enterpr
 - <b>Cybersecurity Program Design</b>
   - [Program Design for CRC](https://github.com/Ebrahimakinz/Program-Design-for-CRC) <b><i>(Humanitarian Organization)</b></i>
 - <b>Cybersecurity Incident Management</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Incident Report & Recovery Plan](https://github.com/Ebrahimakinz/Incident-Recovery-Plan)
 - <b>SecureTech Compliance Consulting</b>
   - [Policy & GRC Framework Review)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Risk Assessment & Compliance Monitoring](https://github.com/joshmadakor1/DecrypterPOC)
