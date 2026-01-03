@@ -26,8 +26,8 @@ From Multi-Million-Dollar Infrastructure to Mission-Critical Governance, Enterpr
   - [Program Design for CRC](https://github.com/Ebrahimakinz/Program-Design-for-CRC) <b><i>(Humanitarian Organization)</b></i>
 - <b>Cybersecurity Incident Management</b>
   - [Threat Intelligence and Adversary Profiling](https://github.com/Ebrahimakinz/Threat-Intelligence)
-  - [Operation Nightingale](https://github.com/Ebrahimakinz/Operation-Nightingale)
-- <b>SecureTech Compliance Consulting</b>
+  - [Operation Nightingale](https://github.com/Ebrahimakinz/Operation-Nightingale) 
+<!--- <b>SecureTech Compliance Consulting</b>
   - [Policy & GRC Framework Review)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Risk Assessment & Compliance Monitoring](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
@@ -37,6 +37,6 @@ From Multi-Million-Dollar Infrastructure to Mission-Critical Governance, Enterpr
 
 <h2> 🤳 Connect with me:</h2>
   
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 
 [linkedin]: https://linkedin.com/in/ibrahimakinteye
